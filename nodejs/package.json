@@ -1,0 +1,14 @@
+{
+  "name": "DockerAttachNodeJS",
+  "description": "Docker Attach NodeJS",
+  "version": "1.0.0",
+  "repository": "github.com/docker-attach",
+  "license": "MIT",
+  "scripts": {
+    "start": "node inspect index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
